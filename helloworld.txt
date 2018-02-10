@@ -2,5 +2,5 @@ This is a greeting. Say hello to world.
 Also say Good morning.
 In noon wish Good Afternoon.
 Good evening
-Good night sweet dreams.
+Good night. Sweet dreams.
 Take care.
